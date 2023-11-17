@@ -11,9 +11,7 @@
     <img src="https://github.com/desai-rohit/mob-wallpaper/assets/76545854/fcab43f8-ad0b-48d2-83fc-05c94b553381" width="250" height="500" />
   <img src="https://github.com/desai-rohit/mob-wallpaper/assets/76545854/7a4d60ff-2beb-4af7-bd43-ca954d4709bd" width="250" height="500" /> 
     <img src="https://github.com/desai-rohit/mob-wallpaper/assets/76545854/d5c21161-ba9c-46ed-9bfd-79ade64c74ac" width="250" height="500" />
-
-
- </p>
+</p>
 
  # Mob Wallpaper apk link:
  https://drive.google.com/file/d/1iBUpW9WuH3zvwqGg5hqODnzt86284RFs/view
